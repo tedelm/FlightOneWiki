@@ -1,12 +1,6 @@
 # FlightOneWiki
 The inofficial Wiki, by the community</br>
 
-
-
-# Were to buy
-_shops</br>
-
-
 # Recommended gear
 _frame</br>
 _motors</br>
@@ -17,3 +11,12 @@ _vtx</br>
 
 # Initial setup
 _Blheli
+
+# Tunes
+_Tunes
+
+# Were to buy
+_shops</br>
+
+
+
