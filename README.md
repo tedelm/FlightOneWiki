@@ -10,12 +10,17 @@ _vtx</br>
 </br>
 
 # Videos
+_Build</br>
+_Features</br>
+_FalcoX</br>
+_Tuning</br>
+
 
 # Initial setup
-_Blheli
+_Blheli</br>
 
 # Tunes
-_Tunes
+_Tunes</br>
 
 # Lightning
 <a href='https://github.com/tedelm/FlightOneWiki/tree/main/Flightcontrollers/Lightning%20H7/Splash%20Screen'>splash screens</a>
