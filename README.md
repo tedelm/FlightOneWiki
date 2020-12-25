@@ -2,7 +2,7 @@
 The inofficial Wiki, by the community</br>
 
 # Contribute
-We all need YOU to contribute! -> <a href='/tree/main/Contribute/Contribute.md'>Read this guide to help</a> <-
+We all need YOU to contribute! -> <a href='blob/main/Contribute/Contribute.md'>Read this guide to help</a> <-
 
 
 
