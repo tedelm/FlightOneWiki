@@ -6,31 +6,26 @@ We all need YOU to contribute! -> <a href='/Contribute/Contribute.md'>Read this 
 
 
 # Initial setup
-## _Blheli
+_dummylink
 
 # Tunes
-## _Tunes
+_dummylink
 
 # Recommended gear
-## 
-## _frame
-## _motor
-## _esc
-## _cam
-## _vtx
+_dummylink
+
 </br>
 
 # Videos
-## _Build
-## _Features
-## _FalcoX
-## _Tuning
+- Build
+- Features
+- FalcoX
+- Tuning
 
 # Boot up logo
 <a href='https://github.com/tedelm/FlightOneWiki/tree/main/Flightcontrollers/Lightning%20H7/Splash%20Screen'>Boot up logo</a>
 
 # Were to buy
-## _shops
 <pre>
 <b>International:</b>
 <a href='https://shop.flightone.com/'>FlightOne.com</a>
@@ -43,12 +38,12 @@ We all need YOU to contribute! -> <a href='/Contribute/Contribute.md'>Read this 
 </pre>
 
 # External links
-## _Guides
+## Guides
 <pre>
 <a href='https://fantazy.fr/falcox/'>FantaZy Guides to FalcoX</a>
 
 </pre>
-## _Schematics
+## Schematics
 <pre>
 <a href='https://flightone.com/pinouts.html'>Pinout diagram</a>
 </pre>
