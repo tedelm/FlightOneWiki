@@ -8,9 +8,9 @@
 5. Add a 1000uf 35v or bigger capacitor (CAP), like 2000uf 35v, or even bigger.
 
 ## Maiden flight
-- [] DO NOT CHANGE ANY FILTERS OR PIDs (Everything should be able to fly on defaults)
-- [] Do a dry run: Try it on the floor without any props, yaw right/left, check if it rotates in right direction
-- [] Do a hover test, check for strange noise and hot motors
-- [] Take it for a maiden flight, if it vibrates you will probably need to go thru your build and check wires etc not touching the flightcontroller
-- [] ...
-- [] ...
+- [ ] DO NOT CHANGE ANY FILTERS OR PIDs (Everything should be able to fly on defaults)
+- [ ] Do a dry run: Try it on the floor without any props, yaw right/left, check if it rotates in right direction
+- [ ] Do a hover test, check for strange noise and hot motors
+- [ ] Take it for a maiden flight, if it vibrates you will probably need to go thru your build and check wires etc not touching the flightcontroller
+- [ ] ...
+- [ ] ...
