@@ -27,15 +27,16 @@ The inofficial Wiki, by the community</br>
 
 # Were to buy
 ## _shops
-<p>
+<pre>
 <b>International:</b>
 <a href='https://shop.flightone.com/'>FlightOne.com</a>
+
 <b>Sweden:</b>
 <a href='https://droneit.se/sv/elektronik/flight-controller/flightone/flightone-lightning-h7-500mhz-flight-controller.html'>Droneit.se</a>
 
 
 
-</p>
+</pre>
 
 # External links
 ## _Guides
