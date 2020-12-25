@@ -28,5 +28,8 @@ _Tunes</br>
 # Were to buy
 _shops</br>
 
+# External links
+<a href='https://fantazy.fr/falcox/'>FantaZy Guides to FalcoX</a>
+
 
 
