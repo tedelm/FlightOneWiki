@@ -33,5 +33,8 @@ The inofficial Wiki, by the community</br>
 ## _Guides
 <a href='https://fantazy.fr/falcox/'>FantaZy Guides to FalcoX</a>
 
+## _Schematics
+<a href='https://flightone.com/pinouts.html'>Pinout diagram</a>
+
 
 
