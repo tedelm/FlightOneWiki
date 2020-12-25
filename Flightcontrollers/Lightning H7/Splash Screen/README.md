@@ -6,8 +6,8 @@ Each flight controller comes with a different boot image (Flightone, Willy, Skit
 1. Backup the existing boot.bmp from your flightcontrollers images folder</br>
 2. Copy your new logo/boot.bmp file into your Images folder on your H7</br>
 </br>
-![Image H7ImgFolder](https://github.com/tedelm/FlightOneWiki/blob/main/IMG/H7FoldersImages.PNG)
 
+![Image H7ImgFolder](https://github.com/tedelm/FlightOneWiki/blob/main/IMG/H7FoldersImages.PNG)
 
 # Create your own Boot up logo
 You can make custom boot up images for FalcoX on the H7 Lightning only. The images have the following restrictions:</br>
