@@ -2,8 +2,9 @@
 The inofficial Wiki, by the community</br>
 
 # Recommended gear
+## 
 ## _frame
-## _motors
+## _motor
 ## _esc
 ## _cam
 ## _vtx
@@ -22,8 +23,8 @@ The inofficial Wiki, by the community</br>
 # Tunes
 ## _Tunes
 
-# Lightning
-<a href='https://github.com/tedelm/FlightOneWiki/tree/main/Flightcontrollers/Lightning%20H7/Splash%20Screen'>splash screens</a>
+# Boot up logo
+<a href='https://github.com/tedelm/FlightOneWiki/tree/main/Flightcontrollers/Lightning%20H7/Splash%20Screen'>Boot up logo</a>
 
 # Were to buy
 ## _shops
