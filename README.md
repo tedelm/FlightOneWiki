@@ -2,33 +2,34 @@
 The inofficial Wiki, by the community</br>
 
 # Recommended gear
-_frame</br>
-_motors</br>
-_esc</br>
-_cam</br>
-_vtx</br>
+## _frame
+## _motors
+## _esc
+## _cam
+## _vtx
 </br>
 
 # Videos
-_Build</br>
-_Features</br>
-_FalcoX</br>
-_Tuning</br>
+## _Build
+## _Features
+## _FalcoX
+## _Tuning
 
 
 # Initial setup
-_Blheli</br>
+## _Blheli
 
 # Tunes
-_Tunes</br>
+## _Tunes
 
 # Lightning
 <a href='https://github.com/tedelm/FlightOneWiki/tree/main/Flightcontrollers/Lightning%20H7/Splash%20Screen'>splash screens</a>
 
 # Were to buy
-_shops</br>
+## _shops
 
 # External links
+## _Guides
 <a href='https://fantazy.fr/falcox/'>FantaZy Guides to FalcoX</a>
 
 
