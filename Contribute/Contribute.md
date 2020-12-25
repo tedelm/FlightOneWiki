@@ -1,12 +1,12 @@
 # FlightOneWiki - Contribute to this Wiki
 
 ## Using web browser
-<pre>
+
 1. Start by creating a Github account
 2. Navigate to the page you want to edit
 3. Press the "pencil" on the top right corner of the wiki page
 4. Do your editing and save
-</pre>
+
 
 ## Using Git
 
