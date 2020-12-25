@@ -3,10 +3,10 @@
 Each flight controller comes with a different boot image (Flightone, Willy, Skitzo, Headsup, Johnny...)</br>
 </br>
 <b>To change your current boot up logo:</b></br>
-Copy the file into your Images folder on your H7</br>
-Rename the boot.bmp that is currently there to boot2.bmp</br>
-Rename the file you downloaded to boot.bmp</br>
+1. Backup the existing boot.bmp from your flightcontrollers images folder</br>
+2. Copy your new logo/boot.bmp file into your Images folder on your H7</br>
 </br>
+![Image](https://github.com/tedelm/FlightOneWiki/blob/main/IMG/H7FoldersImages.PNG)
 
 
 # Create your own Boot up logo
