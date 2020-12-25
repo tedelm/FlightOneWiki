@@ -1,6 +1,12 @@
 # FlightOneWiki
 The inofficial Wiki, by the community</br>
 
+# Initial setup
+## _Blheli
+
+# Tunes
+## _Tunes
+
 # Recommended gear
 ## 
 ## _frame
@@ -16,18 +22,20 @@ The inofficial Wiki, by the community</br>
 ## _FalcoX
 ## _Tuning
 
-
-# Initial setup
-## _Blheli
-
-# Tunes
-## _Tunes
-
 # Boot up logo
 <a href='https://github.com/tedelm/FlightOneWiki/tree/main/Flightcontrollers/Lightning%20H7/Splash%20Screen'>Boot up logo</a>
 
 # Were to buy
 ## _shops
+<p>
+<b>International:</b>
+<a href='https://shop.flightone.com/'>FlightOne.com</a>
+<b>Sweden:</b>
+<a href='https://droneit.se/sv/elektronik/flight-controller/flightone/flightone-lightning-h7-500mhz-flight-controller.html'>Droneit.se</a>
+
+
+
+</p>
 
 # External links
 ## _Guides
