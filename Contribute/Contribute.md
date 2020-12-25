@@ -26,6 +26,7 @@
 
 # External links
 <pre>
+<a href='https://www.youtube.com/watch?v=iv8rSLsi1xo' target='_BLANK'>How to use Github (Youtube)</a>
 <a href='https://guides.github.com/features/mastering-markdown/' target='_BLANK'>Markdown/Formatting text</a>
 
 </pre>
