@@ -15,6 +15,7 @@ Each flight controller comes with a different boot image (Flightone, Willy, Skit
 ![Image H7ImgFolder](https://github.com/tedelm/FlightOneWiki/blob/main/Flightcontrollers/Lightning%20H7/Splash%20Screen/ridethelightning/boot.bmp)
 
 - #TwoWeeks
+
 ![Image H7ImgFolder](https://github.com/tedelm/FlightOneWiki/blob/main/Flightcontrollers/Lightning%20H7/Splash%20Screen/%23TwoWeeks/boot.bmp)
 
 
