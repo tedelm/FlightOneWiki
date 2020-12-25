@@ -1,6 +1,11 @@
 # FlightOneWiki
 The inofficial Wiki, by the community</br>
 
+# Contribute
+We all need YOU to contribute! -> <a href='/tree/main/Contribute/Contribute.md'>Read this guide to help</a> <-
+
+
+
 # Initial setup
 ## _Blheli
 
@@ -40,10 +45,13 @@ The inofficial Wiki, by the community</br>
 
 # External links
 ## _Guides
+<pre>
 <a href='https://fantazy.fr/falcox/'>FantaZy Guides to FalcoX</a>
 
+</pre>
 ## _Schematics
+<pre>
 <a href='https://flightone.com/pinouts.html'>Pinout diagram</a>
-
+</pre>
 
 
