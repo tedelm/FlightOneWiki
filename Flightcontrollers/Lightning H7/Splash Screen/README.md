@@ -9,6 +9,15 @@ Each flight controller comes with a different boot image (Flightone, Willy, Skit
 
 ![Image H7ImgFolder](https://github.com/tedelm/FlightOneWiki/blob/main/IMG/H7FoldersImages.PNG)
 
+## Logos ready for download
+- Ride the lightning 
+
+![Image H7ImgFolder](https://github.com/tedelm/FlightOneWiki/blob/main/Flightcontrollers/Lightning%20H7/Splash%20Screen/ridethelightning/boot.bmp)
+
+- #TwoWeeks
+![Image H7ImgFolder](https://github.com/tedelm/FlightOneWiki/blob/main/Flightcontrollers/Lightning%20H7/Splash%20Screen/%23TwoWeeks/boot.bmp)
+
+
 # Create your own Boot up logo
 You can make custom boot up images for FalcoX on the H7 Lightning only. The images have the following restrictions:</br>
 </br>
