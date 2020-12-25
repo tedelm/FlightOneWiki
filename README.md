@@ -7,7 +7,7 @@ We all need YOU to contribute! -> <a href='/Contribute/Contribute.md'>Read this 
 
 # Initial build and setup
 
-[Link](https://github.com/tedelm/FlightOneWiki/tree/main/InitialSetup)
+[New build (not only for beginners)](https://github.com/tedelm/FlightOneWiki/tree/main/InitialSetup)
 
 # Tunes
 _dummylink
