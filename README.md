@@ -5,8 +5,9 @@ The inofficial Wiki, by the community</br>
 We all need YOU to contribute! -> <a href='/Contribute/Contribute.md'>Read this guide to help</a> <-
 
 
-# Initial setup
-_dummylink
+# Initial build and setup
+
+[Link](https://github.com/tedelm/FlightOneWiki/tree/main/InitialSetup)
 
 # Tunes
 _dummylink
