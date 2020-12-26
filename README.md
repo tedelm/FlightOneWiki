@@ -11,6 +11,12 @@ We all need YOU to contribute! -> <a href='/Contribute/Contribute.md'>Read this 
 
 # Features
 
+- [Filters](https://github.com/tedelm/FlightOneWiki/tree/main/Features/Filters)
+- [PID controllers](https://github.com/tedelm/FlightOneWiki/tree/main/Features/PIDControllers)
+- [BLheli Passthru](https://github.com/tedelm/FlightOneWiki/tree/main/Features/BLHeli)
+
+## Feature log
+
 Version | Type | Feature
 ------------ | ------------- | -------------
 10.1.0.4729 | VTX | New Quick VTX Menu, can be accessed by holding all stick in the bottom right, opens directly to the VTX menu for quick channel changes
