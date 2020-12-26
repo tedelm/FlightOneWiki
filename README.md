@@ -9,6 +9,12 @@ We all need YOU to contribute! -> <a href='/Contribute/Contribute.md'>Read this 
 
 [New build (not only for beginners)](https://github.com/tedelm/FlightOneWiki/tree/main/InitialSetup)
 
+# Features
+
+Version | Type | Feature
+------------ | ------------- | -------------
+10.1.0.4729 | VTX | New Quick VTX Menu, can be accessed by holding all stick in the bottom right, opens directly to the VTX menu for quick channel changes
+
 # Tunes
 _dummylink
 
