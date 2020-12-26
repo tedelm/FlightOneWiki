@@ -14,6 +14,8 @@ We all need YOU to contribute! -> <a href='/Contribute/Contribute.md'>Read this 
 - [Filters](https://github.com/tedelm/FlightOneWiki/tree/main/Features/Filters)
 - [PID controllers](https://github.com/tedelm/FlightOneWiki/tree/main/Features/PIDControllers)
 - [BLheli Passthru](https://github.com/tedelm/FlightOneWiki/tree/main/Features/BLHeli)
+- [VTX Kill](https://github.com/tedelm/FlightOneWiki/tree/main/Features/VTX)
+- [Buzzer/Motorbeep](https://github.com/tedelm/FlightOneWiki/tree/main/Features/Buzzer)
 
 ## Feature log
 
